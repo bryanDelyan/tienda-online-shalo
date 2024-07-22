@@ -6,6 +6,9 @@ Instalación de Phpmailer
   composer install
 ```
     
-## Credenciales de acceso
+## Credenciales de acceso admin 
 - Email: shalom.pijamas.notificaciones@gmail.com
 - Clave: 12345
+- Usuario : yarmu@gmail.com
+- Clave : 167
+
